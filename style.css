@@ -1,0 +1,13 @@
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(85, 85, 85);
+    color: aliceblue;
+}
+.img1 {
+    display: flex;
+ justify-content: center;
+}
